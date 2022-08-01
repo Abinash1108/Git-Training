@@ -1,5 +1,5 @@
 Welcome to GitHub Demo!
 
-This is a demostration on basic git fucntionalties.
+This is a demostration on basic git fucntionalties. Trying out new things on GitHub.
 
 Thank you!
